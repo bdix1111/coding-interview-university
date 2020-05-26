@@ -249,7 +249,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [X] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [X] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] Cracking the Facebook Coding Interview
-    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+    - [X] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 - [ ] Prep Course:
     - ~~[ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):~~
@@ -365,7 +365,7 @@ through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
+[X][Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
 
 A course recommended to me (haven't taken it): [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
